@@ -1,0 +1,13 @@
+Task 1 95th percentile: 127.0Task 2 means: shapeName
+Alto Molocue     12.972222
+Ancuabe          79.341317
+Angoche          22.495146
+Angonia           4.467290
+Balama           80.405405
+                   ...    
+Tsangano         17.776860
+Vanduzi          30.383178
+Vilankulo        73.827586
+Zavala          123.148649
+Zumbu             8.522500
+Name: values, Length: 158, dtype: float64
